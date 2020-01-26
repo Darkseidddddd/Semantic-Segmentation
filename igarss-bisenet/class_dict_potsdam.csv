@@ -1,0 +1,7 @@
+name,r,g,b,class_11
+surfaces,255, 255, 255,1
+Building,0, 0, 255,1
+LowVegetation,0, 255, 255,1
+Tree,0, 255, 0,1
+Car,255, 255, 0,1
+Clutter,255, 0, 0,1
