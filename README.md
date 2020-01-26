@@ -58,17 +58,17 @@ lr = init_lr*(1 - iter/max_iter)**power
 
 ##### （1）train_loss
 
-![](D:\learn\CV\BiSeNet\实验报告\第一次\epoch_loss_epoch_train.png)
+![](images\1_epoch_loss_epoch_train.png)
 
 ##### （2）val_miou
 
-![](D:\learn\CV\BiSeNet\实验报告\第一次\epoch_miou_val.png)
+![](images\1_epoch_miou_val.png)
 
 最高到***0.8004***。
 
 ##### （3）val_oa
 
-![](D:\learn\CV\BiSeNet\实验报告\第一次\epoch_precision_val.png)
+![](images\1_epoch_precision_val.png)
 
 最高到***0.8731***。
 
@@ -150,15 +150,15 @@ lr = init_lr*(1 - iter/max_iter)**power
 
 ##### （1）train_loss
 
-![](D:\learn\CV\BiSeNet\实验报告\adadelta\epoch_loss_epoch_train.png)
+![](images\3_epoch_loss_epoch_train.png)
 
 ##### （2）train_miou
 
-![](D:\learn\CV\BiSeNet\实验报告\adadelta\epoch_miou_train.png)
+![](images\3_epoch_miou_train.png)
 
 ##### （3）train_oa
 
-![](D:\learn\CV\BiSeNet\实验报告\adadelta\epoch_OA.png)
+![](images\3_epoch_OA.png)
 
 ##### （4）test
 
@@ -238,15 +238,15 @@ lr = init_lr*(1 - iter/max_iter)**power
 
 ##### （1）train_loss
 
-![](D:\learn\CV\BiSeNet\实验报告\第二次\实验报告\epoch_loss_epoch_train.png)
+![](images\2_epoch_loss_epoch_train.png)
 
 ##### （2）train_miou
 
-![](D:\learn\CV\BiSeNet\实验报告\第二次\实验报告\epoch_miou_train.png)
+![](images\2_epoch_miou_train.png)
 
 ##### （3）train_oa
 
-![](D:\learn\CV\BiSeNet\实验报告\第二次\实验报告\epoch_oa_train.png)
+![](images\2_epoch_oa_train.png)
 
 ##### （4）test
 
@@ -316,27 +316,27 @@ Potsdam IRRG 三通道
 
 ##### （1）train_loss
 
-![](D:\learn\CV\BiSeNet\实验报告\第四次\epoch_loss_epoch_train.png)
+![](images\4_epoch_loss_epoch_train.png)
 
 1000个epochs并没有收敛。
 
 ##### （2）train_miou
 
-![](D:\learn\CV\BiSeNet\实验报告\第四次\epoch_miou_train.png)
+![](images\4_epoch_miou_train.png)
 
 ##### （3）train_oa
 
-![](D:\learn\CV\BiSeNet\实验报告\第四次\epoch_oa_train.png)
+![](images\4_epoch_oa_train.png)
 
 ##### （4）test_miou
 
-![](D:\learn\CV\BiSeNet\实验报告\第四次\epoch_miou_test.png)
+![](images\4_epoch_miou_test.png)
 
 最高到***0.808***，epochs为***991***，此时对应oa为***0.8799***。
 
 ##### （5）test_oa
 
-![](D:\learn\CV\BiSeNet\实验报告\第四次\epoch_oa_test.png)
+![](images\4_epoch_oa_test.png)
 
 最高到***0.88***，epochs为***966***，此时对应的miou为***0.8069***。
 
@@ -388,27 +388,27 @@ Potsdam IRRG 三通道
 
 ##### （1）train_loss
 
-![](D:\learn\CV\BiSeNet\实验报告\第五次\epoch_loss_epoch_train.png)
+![](images\5_epoch_loss_epoch_train.png)
 
 可以看到1000个epochs还是没有收敛。
 
 ##### （2）train_miou
 
-![](D:\learn\CV\BiSeNet\实验报告\第五次\epoch_miou_train.png)
+![](images\5_epoch_miou_train.png)
 
 ##### （3）train_oa
 
-![](D:\learn\CV\BiSeNet\实验报告\第五次\epoch_oa_train.png)
+![](images\5_epoch_oa_train.png)
 
 ##### （4）test_miou
 
-![](D:\learn\CV\BiSeNet\实验报告\第五次\epoch_miou_test.png)
+![](images\5_epoch_miou_test.png)
 
 最高到***0.8044***，epochs为***993***，此时对应的oa为***0.878***。
 
 ##### （5）test_oa
 
-![](D:\learn\CV\BiSeNet\实验报告\第五次\epoch_oa_test.png)
+![](images\5_epoch_oa_test.png)
 
 最高到***0.878***，epochs为***993***，此时miou为***0.8044***。
 
@@ -460,25 +460,25 @@ Potsdam IRRG 三通道
 
 ##### （1）train_loss
 
-![](D:\learn\CV\BiSeNet\实验报告\第六次_adadelta_50_6\epoch_loss_epoch_train.png)
+![](images\6_epoch_loss_epoch_train.png)
 
 ##### （2）train_miou
 
-![](D:\learn\CV\BiSeNet\实验报告\第六次_adadelta_50_6\epoch_miou_train.png)
+![](images\6_epoch_miou_train.png)
 
 ##### （3）train_oa
 
-![epoch_oa_train](D:\learn\CV\BiSeNet\实验报告\第六次_adadelta_50_6\epoch_oa_train.png)
+![epoch_oa_train](images\6_epoch_oa_train.png)
 
 ##### （4）test_miou
 
-![](D:\learn\CV\BiSeNet\实验报告\第六次_adadelta_50_6\epoch_miou_test.png)
+![](images\6_epoch_miou_test.png)
 
 最高到***0.8087***，epochs为***414***，此时对应的oa为***0.88***。
 
 ##### （5）test_oa
 
-![](D:\learn\CV\BiSeNet\实验报告\第六次_adadelta_50_6\epoch_oa_test.png)
+![](images\6_epoch_oa_test.png)
 
 最高到***0.88***，epochs为***414***，此时miou为***0.8087***。
 
@@ -528,25 +528,25 @@ Potsdam IRRG 三通道
 
 ##### （1）train_loss
 
-![](D:\learn\CV\BiSeNet\实验报告\第七次_adadelta_18_6\epoch_loss_epoch_train.png)
+![](images\7_epoch_loss_epoch_train.png)
 
 ##### （2）train_miou
 
-![](D:\learn\CV\BiSeNet\实验报告\第七次_adadelta_18_6\epoch_miou_train.png)
+![](images\7_epoch_miou_train.png)
 
 ##### （3）train_oa
 
-![](D:\learn\CV\BiSeNet\实验报告\第七次_adadelta_18_6\epoch_oa_train.png)
+![](images\7_epoch_oa_train.png)
 
 ##### （4）test_miou
 
-![](D:\learn\CV\BiSeNet\实验报告\第七次_adadelta_18_6\epoch_miou_test.png)
+![](images\7_epoch_miou_test.png)
 
 最高到***0.7984***，epochs为***517***，此时对应的oa为***0.8751***。
 
 ##### （5）test_oa
 
-![](D:\learn\CV\BiSeNet\实验报告\第七次_adadelta_18_6\epoch_oa_test.png)
+![](images\7_epoch_oa_test.png)
 
 最高到***0.876***，epochs为***499***，此时miou为***0.7976***。
 
@@ -602,25 +602,25 @@ Potsdam IRRG 三通道
 
 ##### （1）train_loss
 
-![](D:\learn\CV\FastFCN\FastFCN-master\实验\一_sgd_50_6\epoch_loss_epoch_train.png)
+![](images\8_epoch_loss_epoch_train.png)
 
 ##### （2）train_miou
 
-![](D:\learn\CV\FastFCN\FastFCN-master\实验\一_sgd_50_6\epoch_miou_train.png)
+![](images\8_epoch_miou_train.png)
 
 ##### （3）train_oa
 
-![](D:\learn\CV\FastFCN\FastFCN-master\实验\一_sgd_50_6\epoch_oa_train.png)
+![](images\8_epoch_oa_train.png)
 
 ##### （4）test_miou
 
-![](D:\learn\CV\FastFCN\FastFCN-master\实验\一_sgd_50_6\epoch_miou_test.png)
+![](images\8_epoch_miou_test.png)
 
 最高到***0.6551***，epochs为***976***，此时对应的oa为***0.8485***。
 
 ##### （5）test_oa
 
-![](D:\learn\CV\FastFCN\FastFCN-master\实验\一_sgd_50_6\epoch_oa_test.png)
+![](images\8_epoch_oa_test.png)
 
 最高到***0.8495***，epochs为***966***，此时miou为***0.6525***。
 
@@ -674,25 +674,25 @@ Potsdam IRRG 三通道
 
 ##### （1）train_loss
 
-![](D:\learn\CV\FastFCN\FastFCN-master\实验\二_sgd_50_6+jpu\epoch_loss_epoch_train.png)
+![](images\9_epoch_loss_epoch_train.png)
 
 ##### （2）train_miou
 
-![](D:\learn\CV\FastFCN\FastFCN-master\实验\二_sgd_50_6+jpu\epoch_miou_train.png)
+![](images\9_epoch_miou_train.png)
 
 ##### （3）train_oa
 
-![](D:\learn\CV\FastFCN\FastFCN-master\实验\二_sgd_50_6+jpu\epoch_oa_train.png)
+![](images\9_epoch_oa_train.png)
 
 ##### （4）test_miou
 
-![](D:\learn\CV\FastFCN\FastFCN-master\实验\二_sgd_50_6+jpu\epoch_miou_test.png)
+![](images\9_epoch_miou_test.png)
 
 最高到***0.7124***，epochs为***979***，此时对应的oa为***0.8682***。
 
 ##### （5）test_oa
 
-![](D:\learn\CV\FastFCN\FastFCN-master\实验\二_sgd_50_6+jpu\epoch_oa_test.png)
+![](images\9_epoch_oa_test.png)
 
 最高到***0.8688***，epochs为***996***，此时miou为***0.7111***。
 
@@ -747,10 +747,10 @@ Potsdam IRRG 三通道
 
 实验六的`confusion matrix`
 
-<img src="D:\learn\CV\igarss-bisenet\confusion_matrix.png" style="zoom:67%;" />
+<img src="igarss-bisenet\confusion_matrix.png" style="zoom:67%;" />
 
-![loss](D:\learn\CV\igarss-bisenet\loss.png)
+![loss](igarss-bisenet\loss.png)
 
-![miou](D:\learn\CV\igarss-bisenet\miou.png)
+![miou](igarss-bisenet\miou.png)
 
-![oa](D:\learn\CV\igarss-bisenet\oa.png)
+![oa](igarss-bisenet\oa.png)
