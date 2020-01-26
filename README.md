@@ -749,8 +749,8 @@ Potsdam IRRG 三通道
 
 <img src="igarss-bisenet\confusion_matrix.png" style="zoom:67%;" />
 
-![loss](igarss-bisenet\loss.png)
+<img src="igarss-bisenet\loss.png" alt="loss" style="zoom:80%;" />
 
-![miou](igarss-bisenet\miou.png)
+<img src="igarss-bisenet\miou.png" alt="miou" style="zoom:80%;" />
 
-![oa](igarss-bisenet\oa.png)
+<img src="igarss-bisenet\oa.png" alt="oa" style="zoom:80%;" />
