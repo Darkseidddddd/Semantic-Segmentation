@@ -58,17 +58,17 @@ lr = init_lr*(1 - iter/max_iter)**power
 
 ##### （1）train_loss
 
-![](images\1_epoch_loss_epoch_train.png)
+<img src="images\1_epoch_loss_epoch_train.png" style="zoom:67%;" />
 
 ##### （2）val_miou
 
-![](images\1_epoch_miou_val.png)
+<img src="images\1_epoch_miou_val.png" style="zoom:67%;" />
 
 最高到***0.8004***。
 
 ##### （3）val_oa
 
-![](images\1_epoch_precision_val.png)
+<img src="images\1_epoch_precision_val.png" style="zoom:67%;" />
 
 最高到***0.8731***。
 
@@ -150,15 +150,15 @@ lr = init_lr*(1 - iter/max_iter)**power
 
 ##### （1）train_loss
 
-![](images\3_epoch_loss_epoch_train.png)
+<img src="images\3_epoch_loss_epoch_train.png" style="zoom:67%;" />
 
 ##### （2）train_miou
 
-![](images\3_epoch_miou_train.png)
+<img src="images\3_epoch_miou_train.png" style="zoom:67%;" />
 
 ##### （3）train_oa
 
-![](images\3_epoch_OA.png)
+<img src="images\3_epoch_OA.png" style="zoom:67%;" />
 
 ##### （4）test
 
@@ -238,15 +238,15 @@ lr = init_lr*(1 - iter/max_iter)**power
 
 ##### （1）train_loss
 
-![](images\2_epoch_loss_epoch_train.png)
+<img src="images\2_epoch_loss_epoch_train.png" style="zoom:67%;" />
 
 ##### （2）train_miou
 
-![](images\2_epoch_miou_train.png)
+<img src="images\2_epoch_miou_train.png" style="zoom:67%;" />
 
 ##### （3）train_oa
 
-![](images\2_epoch_oa_train.png)
+<img src="images\2_epoch_oa_train.png" style="zoom:67%;" />
 
 ##### （4）test
 
@@ -316,27 +316,27 @@ Potsdam IRRG 三通道
 
 ##### （1）train_loss
 
-![](images\4_epoch_loss_epoch_train.png)
+<img src="images\4_epoch_loss_epoch_train.png" style="zoom:67%;" />
 
 1000个epochs并没有收敛。
 
 ##### （2）train_miou
 
-![](images\4_epoch_miou_train.png)
+<img src="images\4_epoch_miou_train.png" style="zoom:67%;" />
 
 ##### （3）train_oa
 
-![](images\4_epoch_oa_train.png)
+<img src="images\4_epoch_oa_train.png" style="zoom:67%;" />
 
 ##### （4）test_miou
 
-![](images\4_epoch_miou_test.png)
+<img src="images\4_epoch_miou_test.png" style="zoom:67%;" />
 
 最高到***0.808***，epochs为***991***，此时对应oa为***0.8799***。
 
 ##### （5）test_oa
 
-![](images\4_epoch_oa_test.png)
+<img src="images\4_epoch_oa_test.png" style="zoom:67%;" />
 
 最高到***0.88***，epochs为***966***，此时对应的miou为***0.8069***。
 
@@ -388,27 +388,27 @@ Potsdam IRRG 三通道
 
 ##### （1）train_loss
 
-![](images\5_epoch_loss_epoch_train.png)
+<img src="images\5_epoch_loss_epoch_train.png" style="zoom:67%;" />
 
 可以看到1000个epochs还是没有收敛。
 
 ##### （2）train_miou
 
-![](images\5_epoch_miou_train.png)
+<img src="images\5_epoch_miou_train.png" style="zoom:67%;" />
 
 ##### （3）train_oa
 
-![](images\5_epoch_oa_train.png)
+<img src="images\5_epoch_oa_train.png" style="zoom:67%;" />
 
 ##### （4）test_miou
 
-![](images\5_epoch_miou_test.png)
+<img src="images\5_epoch_miou_test.png" style="zoom:67%;" />
 
 最高到***0.8044***，epochs为***993***，此时对应的oa为***0.878***。
 
 ##### （5）test_oa
 
-![](images\5_epoch_oa_test.png)
+<img src="images\5_epoch_oa_test.png" style="zoom:67%;" />
 
 最高到***0.878***，epochs为***993***，此时miou为***0.8044***。
 
@@ -460,25 +460,25 @@ Potsdam IRRG 三通道
 
 ##### （1）train_loss
 
-![](images\6_epoch_loss_epoch_train.png)
+<img src="images\6_epoch_loss_epoch_train.png" style="zoom:67%;" />
 
 ##### （2）train_miou
 
-![](images\6_epoch_miou_train.png)
+<img src="images\6_epoch_miou_train.png" style="zoom:67%;" />
 
 ##### （3）train_oa
 
-![epoch_oa_train](images\6_epoch_oa_train.png)
+<img src="images\6_epoch_oa_train.png" alt="epoch_oa_train" style="zoom:67%;" />
 
 ##### （4）test_miou
 
-![](images\6_epoch_miou_test.png)
+<img src="images\6_epoch_miou_test.png" style="zoom:67%;" />
 
 最高到***0.8087***，epochs为***414***，此时对应的oa为***0.88***。
 
 ##### （5）test_oa
 
-![](images\6_epoch_oa_test.png)
+<img src="images\6_epoch_oa_test.png" style="zoom:67%;" />
 
 最高到***0.88***，epochs为***414***，此时miou为***0.8087***。
 
@@ -528,25 +528,25 @@ Potsdam IRRG 三通道
 
 ##### （1）train_loss
 
-![](images\7_epoch_loss_epoch_train.png)
+<img src="images\7_epoch_loss_epoch_train.png" style="zoom:67%;" />
 
 ##### （2）train_miou
 
-![](images\7_epoch_miou_train.png)
+<img src="images\7_epoch_miou_train.png" style="zoom:67%;" />
 
 ##### （3）train_oa
 
-![](images\7_epoch_oa_train.png)
+<img src="images\7_epoch_oa_train.png" style="zoom:67%;" />
 
 ##### （4）test_miou
 
-![](images\7_epoch_miou_test.png)
+<img src="images\7_epoch_miou_test.png" style="zoom:67%;" />
 
 最高到***0.7984***，epochs为***517***，此时对应的oa为***0.8751***。
 
 ##### （5）test_oa
 
-![](images\7_epoch_oa_test.png)
+<img src="images\7_epoch_oa_test.png" style="zoom:67%;" />
 
 最高到***0.876***，epochs为***499***，此时miou为***0.7976***。
 
@@ -602,25 +602,25 @@ Potsdam IRRG 三通道
 
 ##### （1）train_loss
 
-![](images\8_epoch_loss_epoch_train.png)
+<img src="images\8_epoch_loss_epoch_train.png" style="zoom:67%;" />
 
 ##### （2）train_miou
 
-![](images\8_epoch_miou_train.png)
+<img src="images\8_epoch_miou_train.png" style="zoom:67%;" />
 
 ##### （3）train_oa
 
-![](images\8_epoch_oa_train.png)
+<img src="images\8_epoch_oa_train.png" style="zoom:67%;" />
 
 ##### （4）test_miou
 
-![](images\8_epoch_miou_test.png)
+<img src="images\8_epoch_miou_test.png" style="zoom:67%;" />
 
 最高到***0.6551***，epochs为***976***，此时对应的oa为***0.8485***。
 
 ##### （5）test_oa
 
-![](images\8_epoch_oa_test.png)
+<img src="images\8_epoch_oa_test.png" style="zoom:67%;" />
 
 最高到***0.8495***，epochs为***966***，此时miou为***0.6525***。
 
@@ -674,25 +674,25 @@ Potsdam IRRG 三通道
 
 ##### （1）train_loss
 
-![](images\9_epoch_loss_epoch_train.png)
+<img src="images\9_epoch_loss_epoch_train.png" style="zoom:67%;" />
 
 ##### （2）train_miou
 
-![](images\9_epoch_miou_train.png)
+<img src="images\9_epoch_miou_train.png" style="zoom:67%;" />
 
 ##### （3）train_oa
 
-![](images\9_epoch_oa_train.png)
+<img src="images\9_epoch_oa_train.png" style="zoom:67%;" />
 
 ##### （4）test_miou
 
-![](images\9_epoch_miou_test.png)
+<img src="images\9_epoch_miou_test.png" style="zoom:67%;" />
 
 最高到***0.7124***，epochs为***979***，此时对应的oa为***0.8682***。
 
 ##### （5）test_oa
 
-![](images\9_epoch_oa_test.png)
+<img src="images\9_epoch_oa_test.png" style="zoom:67%;" />
 
 最高到***0.8688***，epochs为***996***，此时miou为***0.7111***。
 
@@ -747,10 +747,10 @@ Potsdam IRRG 三通道
 
 实验六的`confusion matrix`
 
-<img src="igarss-bisenet\confusion_matrix.png" style="zoom:67%;" />
+<img src="igarss-bisenet\confusion_matrix.png" style="zoom: 50%;" />
 
-<img src="igarss-bisenet\loss.png" alt="loss" style="zoom:80%;" />
+<img src="igarss-bisenet\loss.png" alt="loss" style="zoom: 67%;" />
 
-<img src="igarss-bisenet\miou.png" alt="miou" style="zoom:80%;" />
+<img src="igarss-bisenet\miou.png" alt="miou" style="zoom: 67%;" />
 
-<img src="igarss-bisenet\oa.png" alt="oa" style="zoom:80%;" />
+<img src="igarss-bisenet\oa.png" alt="oa" style="zoom: 67%;" />
